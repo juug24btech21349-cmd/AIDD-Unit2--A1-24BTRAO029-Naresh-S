@@ -9,6 +9,4 @@ venv/
 *.egg-info/
 dist/
 build/
-docs/screenshots/*.png
-docs/screenshots/*.jpg
-!docs/screenshots/.gitkeep
+
