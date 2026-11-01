@@ -1,5 +1,8 @@
 # AIDD Unit 2 — Assignment A1: Expense Splitter
 
+repo link:https://github.com/juug24btech21349-cmd/AIDD-Unit2--A1-24BTRAO029-Naresh-S.git
+
+
 Small Python CLI that records group expenses, splits them evenly or by custom shares, and prints a **minimal settlement** (who should pay whom).
 
 **AI tool used:** Cursor (Agent mode) — not GitHub Copilot.
