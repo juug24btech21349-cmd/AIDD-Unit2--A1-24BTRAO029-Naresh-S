@@ -1,0 +1,13 @@
+{
+  "people": ["Asha", "Ben", "Chen"],
+  "expenses": [
+    {"description": "Dinner", "amount": "10.00", "paid_by": "Asha"},
+    {"description": "Cab", "amount": "15.00", "paid_by": "Ben", "participants": ["Asha", "Ben"]},
+    {
+      "description": "Museum",
+      "amount": "9.00",
+      "paid_by": "Chen",
+      "shares": {"Asha": "2.00", "Ben": "3.00", "Chen": "4.00"}
+    }
+  ]
+}
